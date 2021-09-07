@@ -1,0 +1,2 @@
+/home/ulises/Documentos/Clases-impartidas/Development/c_proyecto3/build/CMakeFiles/rebuild_cache.dir
+/home/ulises/Documentos/Clases-impartidas/Development/c_proyecto3/build/CMakeFiles/edit_cache.dir
