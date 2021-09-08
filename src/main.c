@@ -22,7 +22,7 @@ int suma (int sumando1, int sumando2);
 int main() {
 
     printf("Hola mundo\n");
-    suma(5, 6);
+    suma(4,5);
 
     return 0;
 }
@@ -36,6 +36,7 @@ int main() {
 */
 
 int suma (int sumando1, int sumando2) {
-    printf("Esta es la funcion suma\n");
+    printf("Resultado: %d\n", (sumando1 + sumando2));
+    return 0;
 }
 
